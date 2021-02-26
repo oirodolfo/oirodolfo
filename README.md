@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oirodolfo&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oirodolfo&count_private=truee&theme=tokyonight)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oirodolfo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oirodolfo&layout=compacte&theme=tokyonight)
 
 
 <!--
