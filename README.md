@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oirodolfo&count_private=true)
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oirodolfo&layout=compact)
+
+
 <!--
 **oirodolfo/oirodolfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
